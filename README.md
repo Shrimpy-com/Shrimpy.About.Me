@@ -142,7 +142,7 @@ Reusable UI components, layouts, and scripts designed to speed up front-end prot
 
 ## 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrimpy&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrimpy-com&layout=compact&theme=dark)
 
 ---
 
