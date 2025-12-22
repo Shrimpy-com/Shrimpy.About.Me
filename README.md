@@ -163,7 +163,7 @@ Everything on this profile — from UI systems to experimental web projects — 
 
 Starting early has helped me develop strong habits around consistency, project organization, documentation, and continuous improvement. My goal is to keep building, keep learning, and grow into a highly capable developer over time.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrimpy-com&show_icons=true&theme=dark" />
+  <img src="https://raw.githubusercontent.com/Shrimpy-com/Pulse.net/refs/heads/main/Screenshot%202025-12-22%20142034.png" />
 </p>
 
 
